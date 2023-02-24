@@ -1,3 +1,3 @@
-# Acciojob Assignment Solution Template Repo
+Write a simple program in JavaScript that displays an alert message saying "Hello World!" when executed.
 
-# Instructions 
+Acceptance Criteria: - alert popup with alert message "Hello World!"
